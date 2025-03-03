@@ -28,14 +28,14 @@ $ neofetch
 
 <!-- Animated Tech Stack -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,docker,kubernetes,aws&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,git,&theme=dark" alt="Tech Stack" />
   
   <!-- Animated Code Window -->
   ```typescript
   class Developer {
-    name: string = 'Jai Smith';
+    name: string = 'Jaismitha';
     role: string = 'Full Stack Developer';
-    languages: string[] = ['JavaScript', 'TypeScript', 'Python'];
+    languages: string[] = ['JavaScript', 'Python'];
     
     constructor() {
       this.code();
