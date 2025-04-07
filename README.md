@@ -17,10 +17,10 @@ $ neofetch
 👨‍💻 System Information
 ──────────────────────────────────────
 🧑 User: Jaismitha
-💻 OS: Full Stack Development
+💻 OS: Full Stack Development and QA tester
 📍 Location: /world/developers/jaismithas859
-🚀 Current Status: Building awesome things
-🎯 Focus: Creating impactful solutions
+🚀 Current Status: Building awesome things and manual testing
+🎯 Focus: Creating impactful solutions and finding bugs
 🔄 Update Frequency: Daily
 ```
 
@@ -34,7 +34,7 @@ $ neofetch
   ```typescript
   class Developer {
     name: string = 'Jaismitha';
-    role: string = 'Full Stack Developer';
+    role: string = 'Full Stack Developer','QA tester';
     languages: string[] = ['JavaScript', 'Python'];
     
     constructor() {
